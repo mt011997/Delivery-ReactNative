@@ -3,7 +3,6 @@
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
-    "build:web": "expo export -p web && npx workbox-cli generateSW workbox-config.js",
     "start": "expo start --dev-client",
     "android": "expo run:android",
     "ios": "expo run:ios",
