@@ -1,5 +1,5 @@
-import { Text, TouchableOpacity, View } from "react-native";
 import { Feather } from "@expo/vector-icons";
+import { Text, TouchableOpacity, View } from "react-native";
 import colors from "tailwindcss/colors";
 
 type HeaderProps = {
