@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "my-app",
-    "slug": "my-app",
+    "name": "Matheus Burguer",
+    "slug": "matheus-Burguer",
+    "description": "Aplicativo de uma lojá de hamburguer, onde o cliente pode adicionar e remover itens do carrinho e no final realizar o pedido diretamente no whatsapp do restaurante!",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -22,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#0F172A"
-      }
+      },
+      "package": "com.mt011997.matheusBurguer"
     },
     "web": {
       "bundler": "metro",
